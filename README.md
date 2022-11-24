@@ -9,4 +9,4 @@ V1: Creazione sito web con tutte le varie sezioni(Home, News, ChiSiamo, Gallery,
 
 V2: Implementazione registrazione e login utente, con annesse pagine visibili solo da quest'ultimo(Shop, DocumentiUtili, Prenotazioni, Allenamenti&Partite);
 
-V3: Implementazione login admin, pagamenti online, social.
+V3: Implementazione login admin, pagamenti online.
